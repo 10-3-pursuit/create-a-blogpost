@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+p {
+  font-size: 1.2rem;
+  color: rgb(17, 104, 17);
+}
+main {
+  width: 50%;
+  text-align: center;
+  margin: 20px auto;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+img {
+  width: 500px;
+  height: 300px;
+  margin: 20px;
+  border: 1px inset rgb(170, 158, 158);
+}
+
+ul {
+  list-style: none;
+  padding: 10px;
+}
+li {
+  margin-bottom: 10px;
+}
